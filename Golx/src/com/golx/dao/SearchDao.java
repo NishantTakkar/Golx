@@ -1,5 +1,9 @@
 package com.golx.dao;
 
-public interface SearchDao {
+import java.util.ArrayList;
 
+import com.golx.entity.Inventory;
+
+public interface SearchDao {
+	public ArrayList<Inventory> search(String searchText);
 }
