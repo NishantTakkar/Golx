@@ -1,5 +1,6 @@
 package com.golx.entity;
 
+<<<<<<< HEAD
 
 public class DatabaseParameters {
 	
@@ -45,5 +46,8 @@ public class DatabaseParameters {
 	}
 	
 	
+=======
+public class DatabaseParameters {
+>>>>>>> a23cfb6789c0dd2a0382e3245ffe08963415f913
 
 }
